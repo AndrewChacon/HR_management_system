@@ -99,8 +99,7 @@
               "title": "05-architecture-plan"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
-    "collapsed": true
+    "width": 238.5
   },
   "right": {
     "id": "e27bda843196c9b3",
@@ -263,13 +261,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "a6bbe2846631f907",
+  "active": "ebc0ab20e0d4da9e",
   "lastOpenFiles": [
+    "00-daily-build-log.md",
     "02-security-charter.md",
     "05-architecture-plan.md",
     "04-threat-model.md",
     "03-data-classification.md",
-    "01-prototype-contract.md",
-    "00-daily-build-log.md"
+    "01-prototype-contract.md"
   ]
 }

@@ -42,7 +42,6 @@ A bunch of stuff I dont feel like doing for the prototype:
 - Payroll, time tracking
 - Performance reviews, PTO requests
 - MFA (I do wan to implement this at some point)
-- File uploads (employee documents and malware scanning)
 - Compliance automation for SOC2
 - Mobile app
 
